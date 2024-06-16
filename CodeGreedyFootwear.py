@@ -43,7 +43,7 @@ print("Footwear setelah di sorting : ")
 for i in range(len(arrPilihan)):
     print(arrPilihan[i])
 
-# memilih pakaian
+# memilih footwear
 print("Rekomendasi footwear : ")
 total = 0
 value = 0
